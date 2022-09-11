@@ -2,6 +2,14 @@
 <search>
   <entry>
     <title>gallery</title>
+    <url>/2022/09/11/gallery/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>gallery</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>gallery</title>
     <url>/2022/09/11/gallery-1/</url>
     <content><![CDATA[]]></content>
   </entry>
@@ -22,11 +30,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>gallery</title>
-    <url>/2022/09/11/gallery/</url>
-    <content><![CDATA[]]></content>
       <categories>
         <category>gallery</category>
       </categories>
